@@ -3,8 +3,8 @@
   <info>
     <title>APA6 no ttl</title>
     <title-short>APA6-NO-ttl</title-short>
-    <id>http://www.zotero.org/styles/apa6-no-ttl</id>
-    <link href="http://www.zotero.org/styles/apa6-no-ttl" rel="self"/>
+    <id>https://github.com/cxumol/citation-style/raw/master/apa6-no-ttl-1st-auth.csl</id>
+    <link href="https://github.com/cxumol/citation-style/raw/master/apa6-no-ttl-1st-auth.csl" rel="self"/>
     <link href="http://owl.english.purdue.edu/owl/resource/560/01/" rel="documentation"/>
     <author>
       <name>Simon Kornblith</name>
